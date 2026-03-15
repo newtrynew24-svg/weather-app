@@ -62,3 +62,4 @@ flutter:
 
 ## Preview
 
+![App Demo](https://github.com/ingvar-m/weather-app/blob/main/weather_app.gif)
