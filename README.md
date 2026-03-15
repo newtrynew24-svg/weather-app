@@ -32,7 +32,7 @@ The development journey involved several architectural decisions and challenges:
 
 ## Running the Project (Android)
 
-Since this repository contains only the core source code (`lib`) and resources (`assets`), please follow these steps to integrate and run it on an Android device or emulator:
+Since this repository contains only the core source code, please follow these steps to integrate and run it on an Android device or emulator:
 
 1. Create a new Flutter project.
 2. Navigate into your new project directory.
@@ -43,11 +43,12 @@ Since this repository contains only the core source code (`lib`) and resources (
 dependencies:
   flutter:
     sdk: flutter
-  flutter_riverpod: ^2.0.0 # or latest
-  dio: ^5.0.0
-  lottie: ^3.1.0
-  geolocator: ^10.0.0
-  geocoding: ^2.1.0
+  flutter_riverpod: ^3.2.1 # or latest
+  dio: ^5.9.1
+  lottie: ^3.2.2
+  google_fonts: ^6.2.1
+  geolocator: ^14.0.2
+  geocoding: ^4.0.0
 
 flutter:
   uses-material-design: true
