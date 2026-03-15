@@ -62,4 +62,4 @@ flutter:
 
 ## Preview
 
-https://github.com/user-attachments/assets/7dab4825-095f-4
+<video src="https://github.com/ingvar-m/weather-app/issues/1#issue-4077903329" controls="controls" style="max-width: 100%; height: auto;"></video>
